@@ -1,0 +1,10 @@
+com\volapp\charityuser\UserRepository.class
+com\volapp\charityuser\UserController.class
+com\volapp\events\Events.class
+com\volapp\VolunteerApplication.class
+com\volapp\events\EventsRepository.class
+com\volapp\charityuser\UserSignIn.class
+com\volapp\events\EventsController.class
+com\volapp\WebSecurity.class
+com\volapp\charityuser\MySQLUserDetailsService.class
+com\volapp\charityuser\User.class
